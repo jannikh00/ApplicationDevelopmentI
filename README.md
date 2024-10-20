@@ -28,7 +28,7 @@ Each folder corresponds to an assignment, or project.
 - Each folder has its own `README.md` with specifics, including descriptions, objectives, and required files.
 
 ## Contents
-1. **Assignment 1**: [Description]
+1. **02-Midterm**: Create a polished portfolio website showcasing your skills with HTML, CSS, and PythonAnywhere deployment.
 2. **Project 1**: [Description]
 3. **Assignment 2**: [Description]
 4. **Project 2**: [Description]
