@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jannik Hofmann - Home</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li {
+            display: inline-block;
+            margin: 0 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul class="menu">
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="/resume.html">Resume</a></li>
+                <li><a href="/portfolio-works.html">Portfolio Works</a></li>
+                <li><a href="/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="contact">
+        <div class="main-container">
+            <h1>Contact Me</h1>
+            <p>Fill out the contact form to send me a message or use my Social Media.</p>
+
+            <form action="submit_form.php" method="post">
+                <label for="name">Name:</label><br>
+                <input type="text" id="name" name="name" placeholder="Your Name" required><br><br>
+
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" name="email" placeholder="Your Email" required><br><br>
+
+                <label for="message">Message:</label><br>
+                <textarea id="message" name="message" placeholder="Your Message" rows="5" required></textarea><br><br>
+
+                <button type="submit">Submit</button>
+            </form>
+
+            <div class="contact-info">
+                <p>Or reach me directly via email (this is an imaginary email):</p>
+                <a href="mailto:jannik@example.com">jannik@example.com</a>
+
+                <p>Follow Me (these are my real accounts):</p>
+                <ul>
+                    <li><a href="https://www.instagram.com/jnnkhfm/" target="_blank"
+                            rel="noopener noreferrer">Instagram</a>
+                    </li>
+                    <li><a href="https://www.linkedin.com/in/jannik-hofmann-707673217" target="_blank"
+                            rel="noopener noreferrer">LinkedIn</a></li>
+                    <li><a href="https://github.com/jannikh00" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <div class="footer-content">
+            <h3>My Portfolio</h3>
+            <p>Thanks for visiting! Feel free to reach out through my social media or contact information.</p>
+            <ul class="socials">
+                <li><a href="https://www.instagram.com/jnnkhfm/" target="_blank" rel="noopener noreferrer">Instagram</a>
+                </li>
+                <li><a href="https://www.linkedin.com/in/jannik-hofmann-707673217" target="_blank"
+                        rel="noopener noreferrer">LinkedIn</a></li>
+                <li><a href="https://github.com/jannikh00" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+            </ul>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 My Portfolio | Designed by Jannik Hofmann</p>
+        </div>
+    </footer>
+</body>
+
+</html>
