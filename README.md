@@ -29,8 +29,6 @@ Each folder corresponds to an assignment, or project.
 
 ## Contents
 1. **02-Midterm**: Create a polished portfolio website showcasing your skills with HTML, CSS, and PythonAnywhere deployment.
-2. **Project 1**: [Description]
-3. **Assignment 2**: [Description]
-4. **Project 2**: [Description]
+2. **03-Assignment_Week5**: Learn the fundamentals of SQL by creating, managing, and manipulating your own database.
 
 Each folder can then be further structured based on whether it’s an assignment or a project with relevant documentation.
