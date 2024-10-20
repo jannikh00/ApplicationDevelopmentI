@@ -28,7 +28,7 @@ Each folder corresponds to an assignment, or project.
 - Each folder has its own `README.md` with specifics, including descriptions, objectives, and required files.
 
 ## Contents
-1. **02-Midterm**: Create a polished portfolio website showcasing your skills with HTML, CSS, and PythonAnywhere deployment.
-2. **03-Assignment-Week5**: Learn the fundamentals of SQL by creating, managing, and manipulating your own database.
+1. **02-Midterm**: I built a mini portfolio website using HTML, CSS, and PythonAnywhere to showcase my skills and projects.
+2. **03-Assignment-Week5**: I applied SQL skills to build a relational database, perform operations, and manage data efficiently.
 
 Each folder can then be further structured based on whether it’s an assignment or a project with relevant documentation.
